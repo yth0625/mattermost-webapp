@@ -25,13 +25,13 @@ import * as UserAgent from 'utils/user_agent.jsx';
 import * as Utils from 'utils/utils.jsx';
 
 import EmojiPickerOverlay from 'components/emoji_picker/emoji_picker_overlay.jsx';
+import Textbox from 'components/textbox';
 
 import ConfirmModal from './confirm_modal.jsx';
 import FilePreview from './file_preview.jsx';
 import FileUpload from './file_upload.jsx';
 import MsgTyping from './msg_typing.jsx';
 import PostDeletedModal from './post_deleted_modal.jsx';
-import Textbox from './textbox.jsx';
 import TutorialTip from './tutorial/tutorial_tip.jsx';
 
 const Preferences = Constants.Preferences;

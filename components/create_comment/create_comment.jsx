@@ -29,7 +29,7 @@ import FilePreview from 'components/file_preview.jsx';
 import FileUpload from 'components/file_upload.jsx';
 import MsgTyping from 'components/msg_typing.jsx';
 import PostDeletedModal from 'components/post_deleted_modal.jsx';
-import Textbox from 'components/textbox.jsx';
+import Textbox from 'components/textbox';
 
 const ActionTypes = Constants.ActionTypes;
 const KeyCodes = Constants.KeyCodes;
